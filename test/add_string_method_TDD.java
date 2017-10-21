@@ -11,7 +11,7 @@ public class add_string_method_TDD {
 
     @Test
     public final void test_add_string_does_not_throw_exception_on_two_arguements(){
-        add_Strings.add_string_method("1,2");
+        Assert.assertEquals(add_Strings.add_string_method("1,2"),3);
         Assert.assertTrue(true);
     }
     @Test
@@ -22,11 +22,9 @@ public class add_string_method_TDD {
     @Test(expected = RuntimeException.class)
     public final void test_add_string_does_throw_runtime_exception_when_one_non_integer_given(){
         add_Strings.add_string_method("1,T");
-        Assert.assertTrue(true); // Test result to be false
     }
     @Test
     public final void test_add_string_returns_same_number_when_one_number_used(){
-        ;
         Assert.assertEquals(add_Strings.add_string_method("1"),1);
     }
     @Test
@@ -55,14 +53,13 @@ public class add_string_method_TDD {
     // Test case: Support different delimiters e.g  ";"
     @Test
     public final void test_add_string_for_numbers_with_delimiters(){
-        Assert.assertEquals(add_Strings.add_string_method("//;n3;1;0"),4); // Apply refactoration for this method
+        Assert.assertEquals(add_Strings.add_string_method("//;n3;1;0"),4); // Applied refactoration for this method
     }
 
     // Test case: A negative number will throw an exception
     @Test(expected = RuntimeException.class)
     public final void test_add_string_throws_runtime_exception_for_negative_numbers(){
-        add_Strings.add_string_method("//;n3,-1,2");
-        Assert.assertTrue(true); // Assert runtime exception to be true .
+        add_Strings.add_string_method("//;n3,----1,-2");
     }
 
     // Test case: Number larger than thousand must ignored
@@ -75,9 +72,8 @@ public class add_string_method_TDD {
     @Test
     // Test case: Delimiter can be of any length
     public final void test_add_string_delimiters_of_any_length(){
-        Assert.assertEquals(add_Strings.add_string_method("//;n3---124-%-1"),128);
+        Assert.assertEquals(add_Strings.add_string_method("//;n--1-----3--1--2------12"),19);
     }
-
 
 
 

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03a13626-b9f3-4daf-95bb-fa70f8caac53" name="Default" comment="" />
+    <list default="true" id="03a13626-b9f3-4daf-95bb-fa70f8caac53" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MISC/MISC/add_Strings.class" afterPath="$PROJECT_DIR$/out/production/MISC/MISC/add_Strings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/MISC/add_string_method_TDD.class" afterPath="$PROJECT_DIR$/out/test/MISC/add_string_method_TDD.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MISC/add_Strings.java" afterPath="$PROJECT_DIR$/src/MISC/add_Strings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/add_string_method_TDD.java" afterPath="$PROJECT_DIR$/test/add_string_method_TDD.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,36 +19,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dynamicProgramming.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="add_Strings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MISC/add_Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+            <state relative-caret-position="518">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_string_method_TDD.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="add_string_method_TDD.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/add_string_method_TDD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            <state relative-caret-position="72">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todelete.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MISC/todelete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +60,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -67,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/MISC/dynamicProgramming.java" />
         <option value="$PROJECT_DIR$/src/MISC/TDD.java" />
         <option value="$PROJECT_DIR$/MISC.iml" />
+        <option value="$PROJECT_DIR$/src/MISC/todelete.java" />
         <option value="$PROJECT_DIR$/test/add_string_method_TDD.java" />
         <option value="$PROJECT_DIR$/src/MISC/add_Strings.java" />
       </list>
@@ -78,11 +87,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="279" />
-    <option name="y" value="129" />
-    <option name="width" value="1394" />
-    <option name="height" value="901" />
+    <option name="y" value="73" />
+    <option name="width" value="1390" />
+    <option name="height" value="885" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -203,25 +212,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="add_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="MISC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="MISC.add_Strings" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MISC" />
-      <envs />
-    </configuration>
     <configuration name="add_string_method_TDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="MISC" />
@@ -250,6 +240,26 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="add_string_method_TDD" />
       <option name="METHOD_NAME" value="test_add_string_delimiters_of_any_length" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="add_string_method_TDD.test_add_string_for_numbers_with_delimiters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MISC" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="add_string_method_TDD" />
+      <option name="METHOD_NAME" value="test_add_string_for_numbers_with_delimiters" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -303,19 +313,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD" />
-      <item index="1" class="java.lang.String" itemvalue="Application.add_Strings" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_delimiters_of_any_length" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_for_numbers_with_delimiters" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_delimiters_of_any_length" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_delimiters_of_any_length" />
-        <item index="2" class="java.lang.String" itemvalue="Application.add_Strings" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.add_string_method_TDD.test_add_string_for_numbers_with_delimiters" />
       </list>
     </recent_temporary>
   </component>
@@ -345,57 +355,60 @@
       <workItem from="1508547726116" duration="269000" />
       <workItem from="1508548035568" duration="67000" />
       <workItem from="1508549334007" duration="93000" />
+      <workItem from="1508596521917" duration="11313000" />
+      <workItem from="1508616333050" duration="2515000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="add_string_method_TDD - 2017.10.21 at 01h 01m 43s.xml">
+    <history-entry file="add_string_method_TDD - 2017.10.21 at 21h 47m 26s.xml">
       <configuration name="add_string_method_TDD" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_delimiters_of_any_length - 2017.10.21 at 00h 20m 51s.xml">
+    <history-entry file="add_string_method_TDD_test_add_string_adds_for_numbers_separated_with_newlines - 2017.10.21 at 21h 36m 32s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_adds_for_numbers_separated_with_newlines" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="add_string_method_TDD_test_add_string_delimiters_of_any_length - 2017.10.21 at 21h 37m 22s.xml">
       <configuration name="add_string_method_TDD.test_add_string_delimiters_of_any_length" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_delimiters_of_any_length - 2017.10.21 at 01h 01m 11s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_delimiters_of_any_length" configurationId="JUnit" />
+    <history-entry file="add_string_method_TDD_test_add_string_for_numbers_with_delimiters - 2017.10.21 at 21h 36m 41s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_for_numbers_with_delimiters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_delimiters_of_any_length - 2017.10.21 at 01h 01m 37s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_delimiters_of_any_length" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_must_ignore_numbers_greater_than_thousand - 2017.10.21 at 00h 03m 52s.xml">
+    <history-entry file="add_string_method_TDD_test_add_string_must_ignore_numbers_greater_than_thousand - 2017.10.21 at 21h 37m 14s.xml">
       <configuration name="add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_must_ignore_numbers_greater_than_thousand - 2017.10.21 at 00h 14m 36s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" configurationId="JUnit" />
+    <history-entry file="add_string_method_TDD_test_add_string_returns_exception_when_nothing_given - 2017.10.21 at 21h 36m 13s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_returns_exception_when_nothing_given" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_must_ignore_numbers_greater_than_thousand - 2017.10.21 at 00h 14m 56s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" configurationId="JUnit" />
+    <history-entry file="add_string_method_TDD_test_add_string_returns_same_number_when_one_number_used - 2017.10.21 at 21h 36m 04s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_returns_same_number_when_one_number_used" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_must_ignore_numbers_greater_than_thousand - 2017.10.21 at 00h 20m 35s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_must_ignore_numbers_greater_than_thousand" configurationId="JUnit" />
+    <history-entry file="add_string_method_TDD_test_add_string_returns_sum_of_N_numbers - 2017.10.21 at 21h 36m 19s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_returns_sum_of_N_numbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_throws_runtime_exception_for_negative_numbers - 2017.10.20 at 21h 27m 11s.xml">
-      <configuration name="add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" configurationId="JUnit" />
+    <history-entry file="add_string_method_TDD_test_add_string_returns_sum_of_two_numbers - 2017.10.21 at 21h 36m 07s.xml">
+      <configuration name="add_string_method_TDD.test_add_string_returns_sum_of_two_numbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="add_string_method_TDD_test_add_string_throws_runtime_exception_for_negative_numbers - 2017.10.20 at 21h 40m 33s.xml">
+    <history-entry file="add_string_method_TDD_test_add_string_throws_runtime_exception_for_negative_numbers - 2017.10.21 at 21h 36m 59s.xml">
       <configuration name="add_string_method_TDD.test_add_string_throws_runtime_exception_for_negative_numbers" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64397000" />
+    <option name="totallyTimeSpent" value="78225000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="279" y="129" width="1394" height="901" extended-state="0" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719836" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38265306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36196318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -405,13 +418,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327551" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -431,15 +443,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719836" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36196318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18814017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -463,7 +475,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/add_string_method_TDD.java</url>
-          <line>50</line>
+          <line>48</line>
           <properties class="add_string_method_TDD" method="test_add_string_adds_for_numbers_separated_with_newlines">
             <option name="EMULATED" value="true" />
           </properties>
@@ -471,7 +483,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/test/add_string_method_TDD.java</url>
-          <line>70</line>
+          <line>67</line>
           <properties class="add_string_method_TDD" method="test_add_string_must_ignore_numbers_greater_than_thousand">
             <option name="EMULATED" value="true" />
           </properties>
@@ -479,7 +491,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/add_string_method_TDD.java</url>
-          <line>49</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -492,13 +504,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
+    <entry file="file://$PROJECT_DIR$/src/MISC/add_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/add_string_method_TDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -524,9 +551,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MISC/add_Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/add_string_method_TDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -552,9 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,9 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,9 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,9 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,9 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,9 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,9 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,28 +745,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MISC/TDD.java" />
-    <entry file="file://$PROJECT_DIR$/test/add_string_method_TDD.java">
+    <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="206">
+          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MISC/add_Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        <state relative-caret-position="518">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MISC/dynamicProgramming.java">
+    <entry file="file://$PROJECT_DIR$/src/MISC/todelete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="90" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/add_string_method_TDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
